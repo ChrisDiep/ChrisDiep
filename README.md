@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello! 
+
+I'm a software engineer coming from a chemical engineering background with a passion for bringing convenience to our daily lives with tech-based solutions. Currently working on a site, [POEFlip](https://github.com/ChrisDiep/POE-Flip), for determining profitable currency trades in a virtual market. 
+
+Feel free to reach out to me through e-mail, I would love to chat about any questions regarding my projects or other topics!
 
 <!--
 **ChrisDiep/ChrisDiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
