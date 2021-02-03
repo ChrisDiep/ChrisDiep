@@ -1,6 +1,6 @@
 Hello! 
 
-I'm an aspiring software engineer coming from a chemical engineering background with a passion for discovering how things work and making them better! Currently working on a site, [POEFlip](https://github.com/ChrisDiep/POE-Flip), for determining profitable currency trades in a virtual market. 
+I'm a software engineer coming from a chemical engineering background with a passion for discovering how things work and making them better! Currently working on a site, [POEFlip](https://github.com/ChrisDiep/POE-Flip), for determining profitable currency trades in a virtual market. 
 
 Feel free to reach out to me through e-mail, I would love to chat about any questions regarding my projects or other topics!
 
